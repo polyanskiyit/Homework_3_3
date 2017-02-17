@@ -95,6 +95,7 @@ namespace Homework_3_3
             {
                 for (int j = 0; j < maxCol; j++)
                 {
+                    //safd
                     Console.Write((int)arr_3[i, j] + " %  ");
                     sumArr_3 += arr_3[i, j];
                 }
